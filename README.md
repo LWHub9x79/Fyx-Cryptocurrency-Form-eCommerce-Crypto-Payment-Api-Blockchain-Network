@@ -48,7 +48,7 @@
 Integrating cryptocurrency payments using C# involves leveraging APIs from exchanges like Coinbase or Binance. You can create a custom application that handles transactions securely by utilizing libraries such as NBitcoin for Bitcoin operations. This setup allows for automated payments, real-time transaction processing, and robust financial interactions, enabling seamless and secure crypto payments in various applications. C#'s versatility and strong library support make it an excellent choice for developing cryptocurrency payment solutions.
 
 
-#### **Please ReaD First What You Need Part.**
+#### **Please Read First What You Need Part.**
 #### <p align="Left">(<a href="#what-you-need-1">WHAT YOU NEED</a>)</p> 
 
 ![p1](https://github.com/df123hh/photo/assets/171132664/d472fb0c-23e8-4593-af19-fe2033598935)
